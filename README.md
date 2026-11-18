@@ -1,3 +1,10 @@
+## 👥 Contributors
+
+<a href="https://github.com/luciferofx/Python-Screen-Recorder/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=luciferofx/Python-Screen-Recorder" />
+</a>
+
+
 # 🖥️ OpenSource Screen Recorder
 
 <p align="center">
